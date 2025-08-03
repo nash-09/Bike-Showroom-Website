@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMI Calculator Page</title>
+    <link rel="stylesheet" href="EMI.css">
+    <link rel="stylesheet" href=" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    
+
+    <!-- navbar -->
+
+    <div class="navbar">
+        <div class="bars">
+            <i class="fa-solid fa-bars" id="barsIcon"></i>
+            <div class="dialogBox">
+                <a href="../home/home.html">Home</a><br>
+                <a href="../contact us/contact us.html">Contact Us</a><br>
+                <a href="../help/help.html">Help</a><br>
+                <a href="../sell bikes/sell bikes.html">Sell Bikes</a><br>
+                <a href="../EMI calculator/EMI.html">EMI Calculator</a>
+            </div>
+        </div>
+        <div id="logo">
+            <img src="../logo.jpg" alt="">
+        </div>
+        <div class="search-box">
+            <input type="text" placeholder="Search Your Ride" id="search-bar">
+            <button id="btn"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+        <div><a href="../login page/login.html" id="login">Login</a></div>
+    </div>
+
+
+    <!-- EMI calculator section -->
+     
+    <h1>EMI Calculator - Calculate Your Bike Loan EMI</h1>
+
+    <div id="outer-EMI-section">
+        <div id="inner-EMI-section">
+            <div>
+                <p>Loan Amount (<i class="fa-solid fa-indian-rupee-sign"></i>)</p><input type="number" id="input1"><br>
+                <p>Rate of Interest (%)</p><input type="number" id="input2"><br>
+                <input type="radio" name="option" id="input3"><p>EMI in Advance</p><br>
+                <input type="radio" name="option" id="input4"><p>EMI in Arrears</p><br>
+                <button id="btn1">Calculate Loan</button>
+            </div>
+            <div id="EMI-table">
+                <table>
+                    <tr>
+                        <th>Months</th>
+                        <th id="table-th">EMI</th>
+                    </tr>
+                    <tr>
+                        <th>12</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI1">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th>24</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI2">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th>36</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI3">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th>48</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI4">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th>60</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI5">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th>72</th>
+                        <td><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI6">0</p>/-</td>
+                    </tr>
+                    <tr>
+                        <th class="table-th">84</th>
+                        <td class="table-th"><i class="fa-solid fa-indian-rupee-sign"></i><p id="EMI7">0</p>/-</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div id="EMI-para">
+        <h2>Disclaimer</h2>
+        <p>The calculation performed by EMI Calculator is based on the information you entered and is for illustrative purposes only. This calculation reflects amounts in Indian Rupee rounded to the nearest whole figure. Estimated monthly payments DO NOT include any processing or other possible fees which may depend on the financial institution / banks. All loan figures are based upon non-commercial usage and are subject to credit approval from an independent lending source. Actual down payment and resulting monthly payments may vary depending upon type and use of vehicle, regional lender requirements, and the strength of your credit. Check with your dealer for exact monthly payment.</p>
+    </div>
+    
+
+<!-- footer -->
+
+    <div id="footer">
+        <p><a href="../about us/about us.html">About Us</a></p><hr>
+        <p>Connect With Us</p>
+        <div id="connect-us-section">
+            <a href=""><i class="fa-brands fa-square-facebook"></i></a>
+            <a href=""><i class="fa-brands fa-square-x-twitter"></i></a>
+            <a href=""><i class="fa-brands fa-youtube"></i></a>
+            <a href=""><i class="fa-brands fa-square-instagram"></i></a>
+        </div><hr>
+        <p>Download Mobile App</p>
+        <div id="apps-box">
+            <div class="img1 apps"></div>
+            <div class="img2 apps"></div>
+        </div><hr>
+            <div id="copyright-section">
+                <p><i class="fa-solid fa-copyright"></i> 2025 [N09 Motors]. All Rights Reserved</p>
+                <p><a href="../Pirvacy Policy/privacy policy.html">Visitor Agreement & Privacy Policy</a></p>
+            </div>
+    </div>
+    
+    <script src="EMI.js"></script>
+
+</body>
+</html>
