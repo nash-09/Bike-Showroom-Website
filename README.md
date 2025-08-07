@@ -25,9 +25,38 @@ A modern and responsive bike showroom website built to showcase various bike mod
 
 ### 🚀 Preview
 
-![Homepage](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
 
 ![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
 
-👉 [View all screenshots](https://github.com/nash-09/Bike-Showroom-Website/tree/main)
+![Screenshot 3](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/3.png)
 
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+
+![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
+
+![Screenshot 3]
+
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+
+![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
+
+![Screenshot 3]
+
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+
+![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
+
+![Screenshot 3]
+
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+
+![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
+
+![Screenshot 3]
+
+![Screenshot 1](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/1.png)
+
+![Screenshot 2](https://github.com/nash-09/Bike-Showroom-Website/blob/main/Screenshots/2.png)
+
+![Screenshot 3]
