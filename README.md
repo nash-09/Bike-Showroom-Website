@@ -25,7 +25,7 @@ A modern and responsive bike showroom website built to showcase various bike mod
 
 ### 🚀 Preview
 
-![Homepage](./ss/screenshot1.png)
+![Homepage](https://github.com/nash-09/Bike-Showroom-Website/tree/main)
 
 👉 [View all screenshots](https://github.com/yourusername/yourrepo/tree/main/ss)
 
