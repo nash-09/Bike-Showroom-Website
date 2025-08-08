@@ -457,6 +457,25 @@ td i{
 #on-road-box th{
     padding-bottom: 0px;
 }
+
+#road-prices i:hover{
+    color: darkgray;
+    cursor: default;
+}
+#panigale-table-video{
+    display: flex;
+    justify-content: space-evenly;
+}
+iframe{
+    height: 75%;
+    width: 100%;
+    margin-top: 25px;
+    border: 2px solid #66fcf1;
+    border-radius: 10px;
+}
+#panigale-video{
+    width: 35%;
+}
 /* footer */
 
 #footer{
